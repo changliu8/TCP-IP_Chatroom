@@ -1,4 +1,4 @@
-Program author : Chang Liu 101074450;Fengting Guo 101076608
+Program author : Chang Liu 101074450
 Purpose :
 Making a program sending a secret message to Harold using socket TCP/IP code, it assists Timmy by implementing an encrypted chat utility, this program will help Timmy and Harold send encrypted messages to each other that the evil wizard is unable to decrypt.
 list of source files:
